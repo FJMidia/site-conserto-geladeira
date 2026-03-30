@@ -1,0 +1,11 @@
+{
+"@context": "https://schema.org",
+"@type": "LocalBusiness",
+"name": "Souzatech Refrigeração",
+"description": "Manutenção de Geladeira em Taquara",
+"telephone": "21988931826",
+"openingHours": "Segunda a Domingo 24 horas",
+"areaServed": "Taquara",
+"url": "https://Consertodegeladeirarioj.com.br/manutencao-de-geladeira-taquara.html"
+}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Vocês atendem emergências de manutenção de geladeira em Taquara?","acceptedAnswer":{"@type":"Answer","text":"Sim, Souzatech Refrigeração disponibiliza atendimento emergencial para situações urgentes de manutenção de geladeira em Taquara. Nossa equipe está de prontidão para atender chamados fora do horário comercial, finais de semana e feriados."}},{"@type":"Question","name":"Souzatech Refrigeração atende em toda Taquara?","acceptedAnswer":{"@type":"Answer","text":"Sim, Souzatech Refrigeração atende todos os bairros e regiões de Taquara, incluindo áreas residenciais, comerciais e industriais. Nossa equipe está preparada para se deslocar a qualquer ponto da cidade com rapidez."}},{"@type":"Question","name":"Souzatech Refrigeração emite laudo técnico?","acceptedAnswer":{"@type":"Answer","text":"Sim. Após cada serviço de manutenção de geladeira em Taquara, Souzatech Refrigeração emite um laudo técnico completo documentando o diagnóstico, as intervenções realizadas e as recomendações preventivas. Este documento pode ser utilizado para fins de seguro, condomínio ou registro pessoal."}},{"@type":"Question","name":"Quanto custa o serviço de manutenção de geladeira em Taquara?","acceptedAnswer":{"@type":"Answer","text":"O valor do serviço de manutenção de geladeira em Taquara varia conforme a complexidade do caso, o tamanho do imóvel e o tipo de intervenção necessária. Souzatech Refrigeração oferece orçamento gratuito e sem compromisso após uma avaliação técnica inicial. Entre em contato para receber uma proposta personalizada."}},{"@type":"Question","name":"O serviço de manutenção de geladeira oferece garantia?","acceptedAnswer":{"@type":"Answer","text":"Sim. Souzatech Refrigeração oferece garantia contratual sobre todos os serviços de manutenção de geladeira realizados em Taquara. A garantia cobre tanto o diagnóstico quanto a intervenção, dando ao cliente total segurança sobre o resultado."}}]}
